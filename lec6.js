@@ -5,10 +5,9 @@
 // console.log(typeof convert);
 // console.log(convert);
 
-// let score = "abcd";
-// console.log(typeof score);
-// let d="d";
-// console.log(boo);
+let score = "abcd";
+console.log(typeof score);
+
 let somenumber=67
 
 let string=String(somenumber);
