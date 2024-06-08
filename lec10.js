@@ -7,3 +7,4 @@ const age=21
 //WE USE BACKTIKS(``)WHILE INJECTING  A VARIABLE IN A STRING AND WE USE $()DOLLAR AND PARENTHESIS WHILE INJECTING VARIABLE.
 
 console.log(`Hello my name is ${name} and my age is ${age}`);
+
