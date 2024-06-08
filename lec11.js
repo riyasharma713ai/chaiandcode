@@ -15,5 +15,5 @@ console.log(java);
 console.log(java.trim());
 const url="https.riyasharma713ai"
 console.log(url.replace('713' , '777'));
-console.log(gameName.split(' '));
+console.log(gameName.split(' ')); 
 
