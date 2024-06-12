@@ -6,5 +6,7 @@
     console.log(myDate.toISOString());
     console.log(myDate.toLocaleDateString());
     console.log(myDate.toTimeString());
+//Dates are object in java script
+
 
 
