@@ -46,6 +46,11 @@ const myNewArr= myArr.slice(1,3)
 console.log(myNewArr);
 const myNEWArr1= myArr.slice(2,3)
 console.log(myNEWArr1);
+const myarr=["riya","ronak","priya","rohit"]
+const myArr4=myarr.slice(1,3)
+console.log(myArr4);
+const riys= myArr.splice(2,3)
+console.log(riys,);
 
 
 
