@@ -47,9 +47,10 @@ console.log(myNewArr);
 const myNEWArr1= myArr.slice(2,3)
 console.log(myNEWArr1);
 const myarr=["riya","ronak","priya","rohit"]
-const myArr4=myarr.slice(1,3)
+const myArr4=myarr.slice(1,3)//Here what happens is the first index is from where we are gonna start taking the data and next index is where we gonna take the index where from we'll stop before the index or data.
 console.log(myArr4);
-const riys= myArr.splice(2,3)
+const myArr =[1,2,3,4,5]
+const riys= myArr.splice(2,3)//Here what happens is the first  element is for from where it starts and second element  is for how many values or data need to be printed.
 console.log(riys,);
 
 
