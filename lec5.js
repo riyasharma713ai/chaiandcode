@@ -10,8 +10,11 @@ let state=null
 // null => standalone value
 // undefined =>
     
-console.log(typeof undefined);
+console.log(age);
 console.log(typeof null);
+
+
+
 
 
 

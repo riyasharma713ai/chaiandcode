@@ -4,7 +4,7 @@ console.log(2>=1);
 console.log(5>=4);
 console.log(7==8);
 console.log(9<=8);
-// Whatever is the first sign java will only address only that the second sign will not be addressed by java..for eg:(5>=4) the answer will be true because it is readind only the first coomand or sign which is greater than ">"the second sign is not being read by java as it do not read the socond command or sign which is "=".
+// Whatever is the first sign java will only address   the second sign will not be addressed by java..for eg:(5>=4) the answer will be true because it is readind only the first coomand or sign which is greater than ">"the second sign is not being read by java as it do not read the socond command or sign which is "=".
  console.log(null> 0);
  console.log(null== 0);
  console.log(null>=0);

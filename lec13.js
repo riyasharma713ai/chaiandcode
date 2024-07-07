@@ -1,8 +1,9 @@
 console.log("Riya");
 const min=10
 const max=20
-
-console.log(Math.floor(Math.random()*(max-min+1))+min)
+const vle = (max-min+1)+min
+console.log(vle);
+console.log(Math.ceil(Math.random()*(max-min+1))+min)
 console.log(Math.random());
 
 console.log((Math.random()*10)+1);
