@@ -34,10 +34,10 @@ saymyname()
 
 function question(number1 , number2 , number3) {
  const riya=number1 + number2 + number3
- console.log(riya);
-
+ return riya;
 }
 
-question(31 , 32 , 44);
-question(44 , 50 , 90);
+const resultt = question(31 , 32 , 44);
+console.log(resultt);
+
 
